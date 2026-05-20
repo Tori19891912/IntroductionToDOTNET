@@ -1,5 +1,5 @@
 ﻿//#define CONSOLE
-#define STRING_OPERATIONS
+//#define STRING_OPERATIONS
 using System;
 using System.Collections.Generic;
 using System.Linq;
